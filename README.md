@@ -6,6 +6,6 @@ For estimating how many species are present in an area an app, code here, was us
 Total samples, unique genera, and the genus collected during a sampling event are recorded and a species accumulation curve plotted based on the raw number of unique genera (i.e. no fitted line or estimated total). This app can be used to examine sampling (Part III of the app) and diversity measures for the community (Part III of the handout).
 
 Included:
-Shiny code
-In-class handout
-Associated powerpoint (lacks instructor notes so very barebones)
+Shiny code, includes UI and server functions in single script (app.r)
+In-class handout (PopCommAnalysis.pdf & PopCommAnalysis.docx)
+Associated powerpoint (lacks instructor notes so very barebones; (10)CalculatingPopandCommunityParameters(2_November).pptx))
